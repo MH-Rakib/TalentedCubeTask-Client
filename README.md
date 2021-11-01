@@ -1,4 +1,4 @@
-#How To run this application
+# How To run this application
 
 This part covers the client side of the project
 ### npm install
